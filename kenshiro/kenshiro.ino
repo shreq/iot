@@ -170,7 +170,6 @@ void loop()
     {
       turnLeft();
     }
-    //delay(5000); //do wyjebania bo nie dziala
     stop();
   }
 
